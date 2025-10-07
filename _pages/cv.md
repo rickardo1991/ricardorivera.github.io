@@ -10,7 +10,7 @@ toc:
   sidebar: left
 ---
 
-[Descargar CV en PDF](https://rickardo1991.github.io/assets/pdf/example_pdf.pdf){:target="_blank" .btn .btn-primary}
+[Descargar CV en PDF](https://rickardo1991.github.io/assets/pdf/example_pdf.pdf){:target="\_blank" .btn .btn-primary}
 
 <iframe src="/assets/CV%20Ricardo%20Rivera.pdf" width="100%" height="700px" style="border:1px solid #ccc; margin-top:2em;"></iframe>
 

@@ -1,4 +1,3 @@
-
 layout: about
 layout: page
 title: Portafolio Ricardo Rivera
@@ -6,26 +5,27 @@ permalink: /about/
 subtitle: <a href='#'>Cybersecurity Engineer</a>. Dirección. Contacto. Motto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
-  more_info: >
-    <p>555 tu número de oficina</p>
-    <p>123 tu dirección</p>
-    <p>Tu Ciudad, Estado 12345</p>
+align: right
+image: prof_pic.jpg
+image_circular: false
+more_info: >
+<p>555 tu número de oficina</p>
+<p>123 tu dirección</p>
+<p>Tu Ciudad, Estado 12345</p>
 
 selected_papers: false
 social: true
 
 announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
+enabled: true
+scrollable: true
+limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
+enabled: true
+scrollable: true
+limit: 3
+
 ---
 
 ¡Bienvenido al portafolio de Ricardo Rivera!  
