@@ -1,0 +1,20 @@
+// Only the main Sass file needs front matter (the dashes are enough)
+// Only the main Sass file needs front matter (the dashes are enough)
+// Dimensions
+//$max-content-width: 930px;
+
+@import "variables";
+@import "themes";
+@import "layout";
+@import "base";
+@import "distill";
+@import "cv";
+@import "tabs";
+@import "typograms";
+@import "font-awesome/fontawesome";
+@import "font-awesome/brands";
+@import "font-awesome/solid";
+@import "font-awesome/regular";
+@import "tabler-icons/tabler-icons.scss";
+@import "tabler-icons/tabler-icons-filled.scss";
+@import "tabler-icons/tabler-icons-outline.scss";
