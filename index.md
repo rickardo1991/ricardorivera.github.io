@@ -7,7 +7,9 @@ layout: default
 
 [💋](nadin-potito-rico/){:style="font-size: 3em;" title="Ir a Nadin Potito Rico"}
 
-A continuación puedes ver y descargar mi CV:
+Bienvenido / Welcome
+
+Aquí puedes ver y descargar mi CV / Here you can view and download my CV:
 
 <a href="assets/CV%20Ricardo%20Rivera.pdf" target="_blank" class="btn btn-success" style="font-size:1.2em; margin-bottom:1em;">Descargar CV aquí</a>
 
