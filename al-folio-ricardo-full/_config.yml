@@ -1,0 +1,46 @@
+title: "Ricardo Rivera"
+description: "Cybersecurity Engineer & SIEM Architect"
+baseurl: "" # for user/organization pages leave empty
+url: "https://rickardo1991.github.io"
+repository: "rickardo1991/rickardo1991.github.io"
+
+author:
+  name: "Ricardo Rivera"
+  email: "ricardo.rivera.aguilera@gmail.com"
+  location: "Zurich, Switzerland"
+  linkedin: "https://www.linkedin.com/in/ricardriv"
+  github: "https://github.com/rickardo1991"
+
+# Social / SEO
+serve_og_meta: true
+og_image: /assets/img/og-image.jpg
+
+# Collections
+collections:
+  projects:
+    output: true
+  news:
+    output: true
+
+# Build (use GitHub Pages compatible plugins only)
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Theme options (al-folio handles dark/light automatically; we override with custom CSS)
+al_folio_theme: light
+
+# Jekyll Scholar (for publications)
+scholar:
+  style: apa
+  locale: en
+  source: _bibliography
+  bibliography: papers.bib
+  bibliography_template: bib
+  sort_by: year, month
+  order: descending
+
+# Exclude
+exclude:
+  - README.md
+  - node_modules

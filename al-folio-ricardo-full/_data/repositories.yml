@@ -1,0 +1,13 @@
+# GitHub repositories and users to display on /repositories/
+github_users:
+  - rickardo1991
+
+github_repos:
+  - rickardo1991.github.io
+  - elastic-siem-detection-lab
+  - splunk-pipeline-optimizer
+  - azure-security-automation
+  - cyber-labs-workshop
+
+repo_trophies:
+  enabled: true
