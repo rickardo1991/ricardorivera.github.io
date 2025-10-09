@@ -9,6 +9,7 @@ align: right
 image: prof_pic.jpg
 image_circular: false
 more_info: >
+
 <p>555 tu número de oficina</p>
 <p>123 tu dirección</p>
 <p>Tu Ciudad, Estado 12345</p>
