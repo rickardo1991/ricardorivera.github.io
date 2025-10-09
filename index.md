@@ -2,8 +2,9 @@
 layout: default
 ---
 
+Bienvenido / Welcome
 
-# Bienvenido
+A continuación puedes ver y descargar mi CV / Here you can view and download my CV:
 
 [💋](nadin-potito-rico/){:style="font-size: 3em;" title="Ir a Nadin Potito Rico"}
 
